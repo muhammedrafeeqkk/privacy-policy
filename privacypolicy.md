@@ -1,7 +1,7 @@
 
 Privacy Policy
 ----------------
-Last updated: October 15, 2022
+Last updated: October 29, 2022
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
 ### Interpretation and Definitions
@@ -85,5 +85,5 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 ### Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
-* By email: akmalmahmoodkinan@gmail.com
+* By email: rafeeqshan06@gmail.com
 
