@@ -11,8 +11,8 @@ The words of which the initial letter is capitalized have meanings defined under
 For the purposes of this Privacy Policy:
 * **Account** means a unique account created for You to access our Service or parts of our Service.
 * **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-* **Application** means the software program provided by the Company downloaded by You on any electronic device, named Musique
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Musique.
+* **Application** means the software program provided by the Company downloaded by You on any electronic device, named Tune
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Tune.
 * **Country** refers to: Kerala, India
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 * **Personal Data** is any information that relates to an identified or identifiable individual.
